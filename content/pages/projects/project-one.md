@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Altzone Web pages
 colors: colors-a
 date: '2021-06-02'
-client: Awesome client
+client: Psyche's Royal Gaming
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
