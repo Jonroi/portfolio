@@ -12,7 +12,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   altText: Altzone
-  url: /images/bg.jpg
+  url: /images/altLogo.png
 media:
   type: ImageBlock
   url: /images/bg1.jpg
