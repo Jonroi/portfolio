@@ -1,7 +1,7 @@
 
 # My Portfolio	📕
 
-Welcome to my portfolio repository! This space showcases a selection of my work and projects. The site is built with **Next.js** and **React** 🚀, using **TypeScript**✏️ to ensure a robust and scalable codebase.
+Welcome to my portfolio repository! This webpage showcases a selection of my work and projects. The site is built with **Next.js** and **React** 🚀, using **TypeScript**✏️ to ensure a robust and scalable codebase.
 
 This project is deployed and hosted on **Netlify**.
 
