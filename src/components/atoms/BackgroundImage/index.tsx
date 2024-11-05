@@ -1,8 +1,8 @@
 import * as React from 'react';
 import classNames from 'classnames';
-import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
+import { mapStylesToClassNames as mapStyles } from '@/utils/map-styles-to-class-names';
 
-export default function BackgroundImage(props) {
+export default function BackgroundImage(props: { url: any; className: any; backgroundSize: any; backgroundPosition: any; backgroundRepeat: any; opacity: any }) {
     const { url, className, backgroundSize, backgroundPosition, backgroundRepeat, opacity } = props;
     if (!url) {
         return null;
