@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: I'm a software developer
+    title: "my portfolio\_\U0001F4D5"
     subtitle: "Welcome to my portfolio repository! This space showcases a selection of my work and projects. The site is built with Next.js and React \U0001F680, using TypeScript✏️ to ensure a robust and scalable codebase."
     styles:
       self:
