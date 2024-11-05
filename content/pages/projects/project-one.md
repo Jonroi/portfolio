@@ -5,9 +5,9 @@ colors: colors-a
 date: '2021-06-02'
 client: Psyche's Royal Gaming
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  I started in this opensource project as an intern, but with my contribution
+  for this project elevated me to lead programmer and gaining my own team with
+  volunteer contributors and other students of 10+ people to maintain
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
