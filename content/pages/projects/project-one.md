@@ -5,9 +5,10 @@ colors: colors-a
 date: '2021-06-02'
 client: Psyche's Royal Gaming
 description: >-
-  I started in this opensource project as an intern, but with my contribution
-  for this project elevated me to lead programmer and gaining my own team with
-  volunteer contributors and other students of 10+ people to maintain
+  I started in this open-source project as an intern, but my contributions
+  quickly led to a promotion to lead programmer. I now manage a diverse team of
+  over 10 people, including volunteer developers, graphic designers, and
+  students, all working together to maintain and enhance the project.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
