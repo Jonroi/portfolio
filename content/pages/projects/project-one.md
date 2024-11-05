@@ -4,7 +4,7 @@ title: Altzone Web pages
 colors: colors-a
 date: '2021-06-02'
 client: Psyche's Royal Gaming
-description: ''
+description: Web Developing
 featuredImage:
   type: ImageBlock
   altText: Altzone
