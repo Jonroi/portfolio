@@ -11,7 +11,7 @@ description: >-
   students, all working together to maintain and enhance the project.
 featuredImage:
   type: ImageBlock
-  altText: Project thumbnail image
+  altText: Altzone
 media:
   type: ImageBlock
   url: /images/bg1.jpg
