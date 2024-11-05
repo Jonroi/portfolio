@@ -10,38 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-a
-    backgroundSize: full
-    title: "my portfolio\_\U0001F4D5"
-    subtitle: "Welcome to my portfolio repository! This space showcases a selection of my work and projects. The site is built with Next.js and React \U0001F680, using TypeScript✏️ to ensure a robust and scalable codebase."
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -80,6 +48,38 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+  - elementId: ''
+    colors: colors-a
+    backgroundSize: full
+    title: "my portfolio\_\U0001F4D5"
+    subtitle: "Welcome to my portfolio repository! This space showcases a selection of my work and projects. The site is built with Next.js and React \U0001F680, using TypeScript✏️ to ensure a robust and scalable codebase."
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    actions: []
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
