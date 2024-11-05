@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: I'm a software developer
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: "Welcome to my portfolio repository! This space showcases a selection of my work and projects. The site is built with Next.js and React \U0001F680, using TypeScript✏️ to ensure a robust and scalable codebase."
     styles:
       self:
         height: auto
