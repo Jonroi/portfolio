@@ -4,11 +4,7 @@ title: Altzone Web pages
 colors: colors-a
 date: '2021-06-02'
 client: Psyche's Royal Gaming
-description: >-
-  I started in this open-source project as an intern, but my contributions
-  quickly led to a promotion to lead programmer. I now manage a diverse team of
-  over 10 people, including volunteer developers, graphic designers, and
-  students, all working together to maintain and enhance the project.
+description: ''
 featuredImage:
   type: ImageBlock
   altText: Altzone
