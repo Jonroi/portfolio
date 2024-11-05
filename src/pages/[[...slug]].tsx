@@ -1,7 +1,8 @@
-import { DynamicComponent } from '../components/components-registry';
-import { resolveStaticProps } from '../utils/static-props-resolvers';
-import { allContent } from '../utils/content';
+import { DynamicComponent } from '@/components/components-registry';
+import { resolveStaticProps } from '@/utils/static-props-resolvers';
+import { allContent } from '@/utils/content';
 import { PageComponentProps } from '@/types';
+import React from 'react';
 
 const Page: React.FC<PageComponentProps> = (props) => {
     return <DynamicComponent {...props} />;
